@@ -1,0 +1,38 @@
+Ahoi!
+
+DIESE E-MAIL ENTHAELT EINEN TOKEN DER NUR FUER DEINE AUGEN BESTIMMT IST!
+BITTE ANTWORTE NICHT AUF DIESE E-MAIL!
+
+Die Servicegruppe Gestaltung des Bundesverbands der Piratenpartei
+erstellt einen Leitfaden für ein einheitliches Auftreten der
+Piratenpartei nach außen. In dem Zuge wurden dem Landesvorstand die
+beiden neuen Logo-Varianten zugesendet:
+
+1. Vorschlag "orange":
+http://wiki.piratenpartei.de/wiki/images/a/a0/PP_Logo_Hessen_orange.png
+2. Vorschlag "bunt":
+http://wiki.piratenpartei.de/wiki/images/e/e7/PP_Logo_Hessen_bunt.png
+
+Die Wiki-Seite zur Diskussion ist hier:
+http://wiki.piratenpartei.de/HE:Meinungsbilder/Logo-des-Landesverbands
+
+Frage:
+*Welches Logo soll der Landesverband künftig führen?*
+
+Ab dem 19.08.2015 23:07:15 kannst du unter
+https://vote-orga.piratenpartei-hessen.de/vote.php?sid=86190&token={%token_url%}&lang=de-informal&
+abstimmen.
+Dein Token lautet {%token%}, anhand dessen (und der
+Abstimmungsliste) kannst du am Ende nachvollziehen, ob deine Stimme
+erfolgreich gewertet wurde.
+Die Umfrage endet am 02.09.2015 19:00:00. Ab dann kannst du unter
+https://vote-orga.piratenpartei-hessen.de/auswertung.php?id=86190& das
+Ergebnis einsehen.
+Falls du keine weiteren Mails zu Meinungsbildern erhalten möchtest, klicke
+bitte auf
+https://vote-orga.piratenpartei-hessen.de/optout.php?token={%optout_url%}&.
+Dieser Link ist nur 7 Tage gültig!
+Wichtig: Bitte antworte nicht auf diese Mail, sondern schicke Nachfragen zur
+Umfrage an vorstand@piratenpartei-hessen.de.
+
+Klarmachen zum Ändern!

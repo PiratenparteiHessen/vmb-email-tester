@@ -1,0 +1,30 @@
+Ahoi!
+
+DIESE E-MAIL ENTHAELT EINEN TOKEN DER NUR FUER DEINE AUGEN BESTIMMT IST!
+BITTE ANTWORTE NICHT AUF DIESE E-MAIL!
+
+Soll die Piratenpartei Hessen die Ramstein Kampagne
+(http://www.ramstein-kampagne.eu) unterstützen? 
+
+Die Diskussionsseite zu dieser Frage findest Du im Wiki unter:
+http://wiki.piratenpartei.de/HE:Meinungsbilder/Unterstuetzung-Ramstein-Kampagne
+
+Ab dem 07.09.2015 22:59:07 kannst du unter
+https://vote-politik.piratenpartei-hessen.de/vote.php?sid=56897&token={%token_url%}&lang=de-informal&
+abstimmen.
+Dein Token lautet {%token%}, anhand dessen (und der
+Abstimmungsliste) kannst du am Ende nachvollziehen, ob deine Stimme
+erfolgreich gewertet wurde.
+Die Laufzeit der Umfrage ist auf 7 Tage verkürzt, damit zur nächsten
+Landesvorstandssitzung ein Ergebnis vorliegt. Die Umfrage endet am 15.09.2015
+23:59:59. Ab dann kannst du unter
+https://vote-politik.piratenpartei-hessen.de/auswertung.php?id=56897& das
+Ergebnis einsehen.
+Falls du keine weiteren Mails zu Meinungsbildern erhalten möchtest, klicke
+bitte auf
+https://vote-politik.piratenpartei-hessen.de/optout.php?token={%optout_url%}&.
+Dieser Link ist nur 7 Tage gültig!
+Wichtig: Bitte antworte nicht auf diese Mail, sondern schicke Nachfragen zur
+Umfrage an vorstand@piratenpartei-hessen.de.
+
+Klarmachen zum Ändern!
